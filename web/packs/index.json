@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "bumbum.json"
+  ],
+  "homeserver_url": "https://matrix.bumbum.lol"
+}
